@@ -1,2 +1,2 @@
 name = "network-manager"
-region = "Auto-Open Markdown Preview"
+region = "ap-northeast-2"
